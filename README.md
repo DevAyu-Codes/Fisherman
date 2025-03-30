@@ -75,7 +75,7 @@ Languages used: Java, HTML, CSS and JS
 
 Requirement: JDK 17 or above
 
-Developer: Ayush
+Developer: Ayu Kashyap
 
 Size: 600KB
 
